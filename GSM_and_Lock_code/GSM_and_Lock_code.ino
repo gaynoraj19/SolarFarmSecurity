@@ -86,7 +86,7 @@ void loop() {
   } else {
  
   sent = false;
-  Serial.prinln(F("check"));
+  Serial.println(F("check"));
   
   } 
 }
